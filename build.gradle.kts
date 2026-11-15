@@ -28,7 +28,7 @@ dependencies {
 
 //	modImplementation(include("net.silkmc:silk-core:1.10.1")!!)
 //	modImplementation(include("net.silkmc:silk-commands:1.10.1")!!)
-//    modImplementation(include("net.kyori:adventure-platform-fabric:5.9.0")!!)
+//  modImplementation(include("net.kyori:adventure-platform-fabric:5.9.0")!!)
 //	modImplementation(include("eu.pb4:sgui:1.2.2+1.20")!!)
 //	implementation(include("io.leangen.geantyref:geantyref:1.3.11")!!)
 //	implementation(include("org.yaml:snakeyaml:1.28")!!)
